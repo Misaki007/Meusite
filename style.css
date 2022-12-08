@@ -1,0 +1,12 @@
+{
+  margin: 0;
+  border: 0;
+}
+
+body {
+  background-image: linear-gradient(to right, yellow, green);
+}
+
+p.a{
+  font-style: italic;
+}
